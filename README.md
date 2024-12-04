@@ -5,7 +5,7 @@ Introduction to AIGC Projects
 主要内容：实现高时序一致性（包括衣服的一致性、人脸、四肢）的换衣视频生成或者直接替换视频中人物的衣物。
 现有的视频换衣大多直接沿用了[Animate Anyone](https://arxiv.org/abs/2311.17117)中的ReferenceNet结构，存在稳定性较差、时序抖动严重，人脸、衣服一致性差等问题，并且生成过程中资源开销较大。其生成的时间窗口或称image token数较低，无法生成长时间（超过30秒以上）的高一致性视频。
 
-前置知识：Diffusion模型、视频生成、人体动画
+前置知识：Diffusion Models、Video Generation and Editing、Human Image Animation
 
 参考文献：
 [1. MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling](https://arxiv.org/abs/2409.16160)
