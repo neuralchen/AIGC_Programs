@@ -1,7 +1,11 @@
 # AIGC Programs
 Introduction to AIGC Projects
 
-# 1. 
+# 1. 视频换衣
+主要内容：实现高时序一致性（包括衣服的一致性、人脸、四肢）的换衣视频生成或者直接替换视频中人物的衣物。
+前置知识：Diffusion模型、视频生成、人体动画
+
+参考文献：[1. MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling](https://arxiv.org/abs/2409.16160)
 
 # 2.
 
