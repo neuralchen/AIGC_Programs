@@ -1,5 +1,4 @@
 # AIGC Programs
-Introduction to AIGC Projects
 
 # 1. 视频换衣
 ### 主要内容：
