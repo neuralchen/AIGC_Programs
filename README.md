@@ -40,6 +40,8 @@ Diffusion Models、SMPL、Single-Image Human Reconstruction
 
 5. [CharacterGen: Efficient 3D Character Generation from Single Images with Multi-View Pose Canonicalization](https://arxiv.org/abs/2402.17214)
 
+6. [V3D: Video Diffusion Models are Effective 3D Generators](https://arxiv.org/abs/2403.06738)
+
 # 3. 面向单目视频3DGS人体重建的数据增广训练技术
 ### 主要内容：
 利用Pose可控的人体视频生成模型对In-the-wild的单目视频实现pose增广，利用增广后的数据来提升单目视频3DGS人体重建的质量及稳定性。
